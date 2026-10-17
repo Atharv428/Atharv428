@@ -26,7 +26,7 @@
 
 ---
 
-## 📄 Professional CV
+## 📄  My CV
 
 <p align="center">
   <strong>Atharv Kiran Nawale</strong><br>
