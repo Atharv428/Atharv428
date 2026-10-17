@@ -23,6 +23,31 @@
   </a>
 </p>
 
+---
+
+## 📄 My CV
+
+<p align="center">
+  <strong>Atharv Kiran Nawale</strong><br>
+  AI/ML • Computer Vision • Software Development
+</p>
+
+<p align="center">
+  <a href="./Atharv_CV%20(2).pdf">
+    <img src="https://img.shields.io/badge/VIEW_MY_CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My CV">
+  </a>
+  <a href="https://github.com/Atharv428/Atharv428/raw/main/Atharv_CV%20(2).pdf">
+    <img src="https://img.shields.io/badge/DOWNLOAD_CV-00A86B?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
+  </a>
+</p>
+
+<p align="center">
+  <em>Explore my technical skills, projects, achievements, and education.</em>
+</p>
+
+---
+
+
 
 ---
 
