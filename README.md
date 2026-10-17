@@ -53,76 +53,7 @@ I'm an Information Technology engineering student passionate about AI/ML, comput
 - 🚀 Always learning, experimenting, and building.
 
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:7C3AED" width="100%" alt="Section divider"/>
-
-## ◈ TECH STACK & TECHNOLOGIES
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="45" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="45" alt="JavaScript"/>
-</p>
-
-`C` · `C++` · `Python` · `Java` · `JavaScript`
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="45" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="45" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="45" alt="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="45" alt="React"/>
-</p>
-
-`HTML5` · `CSS3` · `Tailwind CSS` · `React.js`
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="45" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="45" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="45" alt="Express.js"/>
-</p>
-
-`FastAPI` · `Node.js` · `Express.js` · `REST APIs`
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="45" alt="PyTorch"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="45" alt="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="45" alt="OpenCV"/>
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="45" alt="Scikit-learn"/>
-  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="45" alt="NumPy"/>
-</p>
-
-`PyTorch` · `TensorFlow` · `OpenCV` · `DeepLabV3` · `YOLO` · `Scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` · `Albumentations`
-
-### 🗄️ Databases & Backend Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="45" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45" alt="Supabase"/>
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45" alt="Firebase"/>
-</p>
-
-`SQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase`
-
-### ☁️ Cloud & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" alt="Linux"/>
-</p>
-
-`Amazon Web Services (AWS)` · `DigitalOcean` · `Linux (Ubuntu)`
 
 ### 🛠️ Development Tools
 
@@ -132,11 +63,55 @@ I'm an Information Technology engineering student passionate about AI/ML, comput
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45" alt="VS Code"/>
 </p>
 
-`Git` · `GitHub` · `Visual Studio Code` · `Linux Terminal`
 
-### 🧩 Core Computer Science
+## 💻 Tech Stack
 
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks`
+<p align="center">
+
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+</p>
 
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
