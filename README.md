@@ -10,6 +10,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+projects+with+Python+and+AI%2FML;Learning+Data+Structures+%26+Algorithms;Exploring+Full+Stack+Development;Turning+ideas+into+real+projects" alt="Typing SVG" />
 </p>
+<p align="center">
+  <a href="./Atharv_Nawale_Resume.pdf">
+    <img src="https://img.shields.io/badge/View_My_Resume-PDF-00C7B7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Atharv428">
@@ -23,13 +28,6 @@
   </a>
 </p>
 
-## 📄 My Resume
-
-<p align="center">
-  <a href="./Atharv_Nawale_Resume.pdf">
-    <img src="https://img.shields.io/badge/View_My_Resume-PDF-00C7B7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume"/>
-  </a>
-</p>
 
 
 ---
