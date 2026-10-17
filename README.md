@@ -52,35 +52,92 @@ I'm an Information Technology engineering student passionate about AI/ML, comput
 - 💻 Practicing DSA and writing efficient, maintainable code.
 - 🚀 Always learning, experimenting, and building.
 
+
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:7C3AED" width="100%" alt="Section divider"/>
 
-## ◈  TECHNOLOGY MATRIX
+## ◈ TECH STACK & TECHNOLOGIES
 
-### `01` — Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" alt="Programming languages"/>
-</p>
-
-### `02` — Frontend & Backend
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,fastapi&theme=dark" alt="Web technologies"/>
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="45" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="45" alt="JavaScript"/>
 </p>
 
-### `03` — Artificial Intelligence & Data
+`C` · `C++` · `Python` · `Java` · `JavaScript`
+
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy&theme=dark" alt="AI and data technologies"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="45" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="45" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="45" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="45" alt="React"/>
 </p>
 
-### `04` — Databases, Tools & Cloud
+`HTML5` · `CSS3` · `Tailwind CSS` · `React.js`
+
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase,git,github,vscode,linux,aws&theme=dark" alt="Tools and cloud"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="45" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="45" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="45" alt="Express.js"/>
 </p>
+
+`FastAPI` · `Node.js` · `Express.js` · `REST APIs`
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="45" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="45" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="45" alt="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="45" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="45" alt="NumPy"/>
+</p>
+
+`PyTorch` · `TensorFlow` · `OpenCV` · `DeepLabV3` · `YOLO` · `Scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` · `Albumentations`
+
+### 🗄️ Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="45" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45" alt="Supabase"/>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45" alt="Firebase"/>
+</p>
+
+`SQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase`
+
+### ☁️ Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" alt="Linux"/>
+</p>
+
+`Amazon Web Services (AWS)` · `DigitalOcean` · `Linux (Ubuntu)`
+
+### 🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45" alt="VS Code"/>
+</p>
+
+`Git` · `GitHub` · `Visual Studio Code` · `Linux Terminal`
+
+### 🧩 Core Computer Science
+
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks`
+
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 
