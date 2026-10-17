@@ -23,6 +23,15 @@
   </a>
 </p>
 
+## 📄 My Resume
+
+<p align="center">
+  <a href="./Atharv_Nawale_Resume.pdf">
+    <img src="https://img.shields.io/badge/View_My_Resume-PDF-00C7B7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume"/>
+  </a>
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
